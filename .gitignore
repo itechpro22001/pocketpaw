@@ -30,7 +30,6 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -51,8 +50,6 @@ idocs/
 .claude 
 
 # Config (contains secrets)
-.env
-.env.local
 
 # Logs
 *.log
@@ -77,3 +74,5 @@ private.key
 .env.bak
 *.bak
 
+output.txt
+config.bat
